@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void) {
-	printf("********************\n");
-	printf("Goodbye Cruel World!\n"); 
-	printf("********************\n");
+	printf("*************************************************\n");
+	printf("AZH OT YHOYH SHU OT YHOYH OH O OT ZOEN YHIG ZHOZH\n"); 
+	printf("*************************************************\n");
 	return 0; 
 }
